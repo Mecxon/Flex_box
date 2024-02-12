@@ -1,0 +1,22 @@
+.container{
+display: flex;
+flex-direction: row;
+padding: 10px;
+border-radius: 5px;
+flex-wrap: wrap;
+justify-content: space-around;
+align-items: center;
+}
+.link{
+    display: flex;
+    padding: 10px;
+}
+.link div{
+    justify-content:space-around;
+}
+.link div{
+    padding: 10px;
+    display: flex;
+}
+
+}
